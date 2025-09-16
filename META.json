@@ -1,0 +1,67 @@
+{
+  "category": "groupware",
+  "created_date": "2025-09-15T22:48:59.534889",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "perl",
+    "sysstat",
+    "sqlite"
+  ],
+  "description": "Zimbra is a free and open-source Collaboration Suite. An open-source collaborative software suite",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/groupware/zimbra",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/groupware/zimbra",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.534912",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "zimbra",
+  "repository_url": "https://github.com/howtomgr/zimbra",
+  "spec_version": "2.0",
+  "subcategory": "groupware",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "groupware",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Zimbra Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/groupware/zimbra"
+}
